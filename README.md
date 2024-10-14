@@ -27,6 +27,6 @@ As a passionate web developer with a focus on Python backend development, I brin
 
 ## Colorful Python Animation
 <div>
-  <img src="https://media.giphy.com/media/3o7buirYJgN1E4nnPG/giphy.gif" width="300" height="200" />
-  <img src="https://media.giphy.com/media/26xBRZOh4BzWzYk7K/giphy.gif" width="300" height="200" />
+  <img src="https://media.giphy.com/media/xT1XGz7WgNd3U4S9f2/giphy.gif" width="300" height="200" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxkYh2/giphy.gif" width="300" height="200" />
 </div>
