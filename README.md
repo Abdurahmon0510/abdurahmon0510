@@ -1,56 +1,26 @@
-<h1 align="center">Hi 👋, I'm Abdurahmon Abduxalimov</h1>
-<h3 align="center">I am a passionate web developer with a strong focus on Python backend development. With 1 year of experience in the industry, I have worked on various projects and gained expertise in building robust and scalable web applications. My technical skills and dedication to delivering high-quality solutions enable me to contribute effectively to any development team.</h3>
+# Hi 👋, I'm Abdurahmon Abduxalimov
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/l3q2Kz5p4UQ1sE7kA/giphy.gif">
+As a passionate web developer with a focus on Python backend development, I bring one year of experience in crafting robust and scalable web applications. My journey in the tech industry has equipped me with the skills to turn ideas into reality, and my commitment to excellence drives me to deliver high-quality solutions that elevate any development team.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurahmon0510&label=Profile%20views&color=0e75b6&style=flat" alt="abdurahmon0510" /> </p>
+**Profile views:** 251
 
-- 🌱 I’m currently focusing on enhancing my skills in **Python** and **Django**
+- 🔧 I’m exploring microservices to deepen my understanding of scalable architectures.
+- 📚 I’m focusing on enhancing my skills in Python and Django.
+- 📧 How to reach me: [abdurahmon942120510@gmail.com](mailto:abdurahmon942120510@gmail.com)
 
-- 📫 How to reach me: **abdurahmon942120510@gmail.com**
+## Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/abdurahmon-abduxalimov-a02997332/) | [Instagram](https://instagram.com/avf_0510)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdurahmon-abduxalimov-a02997332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurahmon-abduxalimov-a02997332" height="30" width="40" /></a>
-<a href="https://instagram.com/avf_0510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avf_0510" height="30" width="40" /></a>
-</p>
+## Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-</a> 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
-</a> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurahmon0510&show_icons=true&locale=en&layout=compact" alt="abdurahmon0510" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurahmon0510&show_icons=true&locale=en" alt="abdurahmon0510" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurahmon0510&" alt="abdurahmon0510" /></p>
+## Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahmon0510&layout=compact)
