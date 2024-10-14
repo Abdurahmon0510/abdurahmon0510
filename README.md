@@ -25,5 +25,18 @@ As a passionate web developer with a focus on Python backend development, I brin
 ## Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahmon0510&layout=compact)
 
-## My GitHub Stats:
-![Abdurahmon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdurahmon0510&show_icons=true&theme=radical)
+## Python Animation
+```plaintext
+                 _.-.                   
+              _.-'   `-._               
+           _.-'           `-._          
+        _.-'   .-''-._       _`-._       
+     _.-'     .'       `-.__.-'    `-._   
+   _.-'      .'                   _.-' `-._ 
+ _.-'      .'                _.-'          `-._
+         .-'          _.-'`-._            _.-'   
+       .-'        _.-'        `-._     _.-'       
+     .'        .-'              `-._.-'           
+   .'        .'
+ .'        .'
+.         .'
