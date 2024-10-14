@@ -2,7 +2,7 @@
 
 As a passionate web developer with a focus on Python backend development, I bring one year of experience in crafting robust and scalable web applications. My journey in the tech industry has equipped me with the skills to turn ideas into reality, and my commitment to excellence drives me to deliver high-quality solutions that elevate any development team.
 
-**Profile views:** 0
+**Profile views:** 251
 
 - 🔧 I’m exploring microservices to deepen my understanding of scalable architectures.
 - 📚 I’m focusing on enhancing my skills in Python and Django.
