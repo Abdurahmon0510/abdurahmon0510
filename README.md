@@ -25,14 +25,8 @@ As a passionate web developer with a focus on Python backend development, I brin
 ## Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahmon0510&layout=compact)
 
-## Animating Text Example
-<div style="font-size: 24px; animation: blinker 1s linear infinite;">👋 Hello, I'm Abdurahmon Abduxalimov!</div>
+## Colorful Python Animation
+![Python Colorful Animation](https://media.giphy.com/media/3o7buirYJgN1E4nnPG/giphy.gif)
 
-<style>
-@keyframes blinker {
-  50% { opacity: 0; }
-}
-</style>
-
-## Python GIF Animation
-![Python Animation](https://media.giphy.com/media/26u4c1xE5k5nU8Zw4/giphy.gif)
+## Fun Programming GIF
+![Programming Fun GIF](https://media.giphy.com/media/26xBRZOh4BzWzYk7K/giphy.gif)
