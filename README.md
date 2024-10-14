@@ -25,18 +25,14 @@ As a passionate web developer with a focus on Python backend development, I brin
 ## Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahmon0510&layout=compact)
 
-## Python Animation
-```plaintext
-                 _.-.                   
-              _.-'   `-._               
-           _.-'           `-._          
-        _.-'   .-''-._       _`-._       
-     _.-'     .'       `-.__.-'    `-._   
-   _.-'      .'                   _.-' `-._ 
- _.-'      .'                _.-'          `-._
-         .-'          _.-'`-._            _.-'   
-       .-'        _.-'        `-._     _.-'       
-     .'        .-'              `-._.-'           
-   .'        .'
- .'        .'
-.         .'
+## Animating Text Example
+<div style="font-size: 24px; animation: blinker 1s linear infinite;">👋 Hello, I'm Abdurahmon Abduxalimov!</div>
+
+<style>
+@keyframes blinker {
+  50% { opacity: 0; }
+}
+</style>
+
+## Python GIF Animation
+![Python Animation](https://media.giphy.com/media/26u4c1xE5k5nU8Zw4/giphy.gif)
